@@ -1,0 +1,79 @@
+PROJECT 50 — FIRST IMPLEMENTATION PLAN
+
+Goal
+Reach 50 paying Skillest subscribers at $89 per month by month 13. The website journey is: visitor → free golf assessment → personalised feedback → paid online coaching → long-term coaching relationship.
+
+WORK THAT CAN BE COMPLETED NOW
+
+1. Website accuracy and conversion
+- Use Skillest as the source of truth for offers, prices, terms and purchase links.
+- Present the $89 Performance Coaching subscription as the main ongoing option.
+- Remove fixed review totals from the website and link to the live Skillest profile, so the displayed count cannot become outdated.
+- Position Andy as a complete online and in-person PGA golf coach, with short-game coaching as a specialist strength.
+- Make the free golf assessment the main button in the header, hero, coaching journey and final call to action.
+- Keep the site mobile-friendly, fast and accessible.
+- Keep the book visible as evidence of Andy’s expertise and move the full four-stage short-game framework to its own page.
+
+2. Content and search
+- Use one consistent fact block: Andy Plester is a PGA Professional with 22+ years of coaching experience, a golf author and TaylorMade Ambassador. He coaches online worldwide and in person at Ullesthorpe Court Golf Club in Leicestershire.
+- Keep page titles, descriptions, social sharing information, structured information, sitemap.xml and llms.txt current.
+- Add plain-language answers to common questions about online coaching.
+
+3. Weekly performance report template
+- Website visitors
+- Free golf assessment leads
+- Assessments started
+- Assessments completed
+- Assessment-to-paid conversions
+- New $89 subscribers
+- Total active paying subscribers
+- Cancellations and retention rate
+- Referrals received
+- Short note: what worked, what needs attention, and the one priority for next week
+
+WORK REQUIRING JAMES’S INVOLVEMENT OR APPROVAL
+
+1. Twenty CRM installation and security
+- James confirms hosting, administrator access, backups, software updates, encryption, access control and who can see customer information.
+- James reviews the privacy policy, data-processing responsibilities, retention period, deletion process and incident response before any customer data is collected or transferred.
+- No existing student or lead data moves into Twenty until these arrangements are approved.
+
+2. Twenty CRM design
+- Create stages for: New Lead, Assessment Requested, Assessment Booked, Assessment Completed, Follow-up Due, Paid Subscriber, Retention Check, Referral Requested, Former Customer.
+- Keep records for online leads and existing in-person students separate where useful, but use one simple view of each person’s coaching relationship.
+- Record only necessary information: contact details, source, assessment status, coaching status, next action, consent status and referral source.
+- Add follow-up tasks after an assessment, onboarding tasks for a new subscriber, retention check-ins and a referral request at an agreed point.
+- James and Andy approve fields, permissions and automation before use.
+
+3. Website and CRM connections
+- James verifies the exact live free-assessment link and whether Skillest can pass lead or subscription status safely into Twenty.
+- James approves any form, tracking script, integration or transfer of information before it is added.
+- If there is no safe direct integration, use a simple approved manual weekly update rather than copying unnecessary data.
+
+4. Google Analytics and Search Console
+- Required approvals: Andy confirms the Google account that should own both services; James confirms site access and approves tracking and consent changes.
+- Required access: domain or GitHub Pages verification access for Search Console, and permission to add the approved Analytics measurement code and update the cookie consent wording.
+- Submit sitemap.xml after Search Console verification.
+- Do not add tracking until ownership, consent and privacy arrangements are approved.
+
+5. Weekly report setup
+- James confirms where the figures come from: website analytics, Skillest and Twenty.
+- Andy and James agree who updates it, the reporting day and where the report is stored.
+- Start with a one-page weekly report; do not build a complex dashboard until the figures and process are reliable.
+
+APPROVALS AND ACCESS CHECKLIST
+
+- Andy: approve website wording, package presentation and final preview.
+- Andy: confirm the Google account that owns Analytics and Search Console.
+- James: verify every Skillest assessment and purchase link against the live profile.
+- James: approve Twenty hosting, security, privacy, access and backups.
+- James: approve any website form, script, tracking or CRM integration.
+- James: confirm access to GitHub Pages or the domain for Search Console verification.
+- Andy and James: approve the CRM stages, weekly report ownership and handling of existing in-person student information.
+
+FIRST 30 DAYS
+
+Week 1: Approve the website preview and verify all live Skillest destinations.
+Week 2: James proposes the secure Twenty setup and data-handling rules; Andy approves the simple CRM stages.
+Week 3: Connect Analytics and Search Console only after approval, submit the sitemap and test reporting sources.
+Week 4: Begin the one-page weekly report and review the number of leads, completed assessments and paid conversions.
